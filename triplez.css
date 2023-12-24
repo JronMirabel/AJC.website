@@ -1,0 +1,54 @@
+/* for triplez.html*/
+#triplez{
+    width: 50%;
+    padding: 20px 0;
+    float: right;
+}
+#triplez:hover{
+    width: 54%;
+}
+.triplez{
+    color: goldenrod;
+    font-size: 5em;
+    padding: 50px;
+    text-align: center; 
+    font-family: serif;
+    text-decoration: none;
+}
+.tagline{
+    color: aliceblue;
+    text-align: center;
+}
+#fbpage{
+    color: aliceblue;
+    padding: 0px 10px;
+}
+#fbpage:hover{
+    color:khaki;
+    font-size: 20px;
+    
+}
+#info{
+    color: aliceblue;
+    padding: 30px 0px;
+    display: block;
+    font-family: serif;
+    text-align: center;
+}
+#gifs{
+    float: right;
+    width: 100px;
+}
+.word{
+    float: right;
+}
+#trouble{
+    text-decoration: none;
+    color: bisque;
+    padding-left: 20px;
+    margin: 0px 0px;
+}
+#trouble:hover{
+    font-size: 20px;
+    color: burlywood;
+}

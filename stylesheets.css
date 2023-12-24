@@ -1,0 +1,51 @@
+/*for index.html*/
+body{
+    background-image: url(img/background.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+body #nav{
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+#ajc{
+    margin-left: 30px;
+    font-stretch: expanded;
+}
+#dev{
+    margin-right: 30px;
+    padding:0px 0px;
+    font-size: larger;
+    font-weight: bolder;  
+}
+.pero{
+    text-align: center;
+    color: aliceblue;
+    font-size: 5em;
+    margin: 200px;
+}
+body #nav ul{
+    list-style: none;
+}
+body #nav ul li{
+    display: inline-block;
+    margin-top: 5px;
+    padding: 0px 10px;
+}
+body #nav ul li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+nav{
+    color: aliceblue;
+    float: initial;
+    padding-top: 15px;
+}
+
+/* for contact.html*/

@@ -1,0 +1,39 @@
+body{
+    display: block;
+}
+
+.hello{
+    color: aliceblue;
+    padding-left: 55%;
+    font-size: 70px;
+    font-family:'Dancing Script', 'Sevillana', cursive;
+    transform: rotate(6deg);
+}
+#hii{
+    width: 75px;
+    border-bottom: 1px solid crimson;
+}
+#body{
+    display: flow-root;
+    color: aliceblue;
+    padding: 80px 100px;
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+
+}
+#body pre{
+    color: aliceblue;
+    padding-top: 8px;
+    text-decoration: none;
+    font-family: 'Times New Roman', 'Ubuntu';
+    font-size: 17px;
+    font-style: italic;
+    text-align: justify;
+}
+#ako{
+    float: right;
+    width: 350px;
+    padding-left: 0px;
+    vertical-align: sub;
+    position: static;
+}

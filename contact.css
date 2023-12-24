@@ -1,0 +1,104 @@
+div .contact{ 
+    text-align: center;
+    color:lightsalmon;
+    text-decoration: underline;
+}
+#fblogo{
+    padding-left: 40%;
+    width: 5%;
+}
+nav .facebook{
+    text-align: center;
+    color: darkkhaki;
+    font-size: 20px;
+    text-decoration: none;
+    float: right;
+    padding-right: 43%;
+    padding-top: 30px;
+}
+nav .facebook:hover{
+    color: aqua;
+    font-size: 21px;
+    text-decoration: underline;
+    text-shadow: 3px 3px 4px bisque;
+    display: inline-block;
+}
+#ytlogo{
+    padding-left: 38.5%;
+    width: 7%;
+}
+.youtube{
+    color: darkkhaki;
+    text-decoration: none;
+    float: right;
+    padding-right: 43%;
+    padding-top: 50px;
+    font-size: 20px;
+    text-align: center;
+}
+.youtube:hover{
+    color: aqua;
+    font-size: 21px;
+    text-decoration: underline;
+    text-shadow: 3px 3px 4px bisque;
+    display: inline-block;
+}
+#gmaillogo{
+    padding-top: 20px;
+    padding-left: 40.5%;
+    width: 4%
+}
+.gmail{
+    color: darkkhaki;
+    text-decoration: none;
+    float: right;
+    padding-right: 44.5%;
+    padding-top: 35px;
+    font-size: 20px;
+    text-align: center;
+}
+.gmail:hover{
+    color: aqua;
+    font-size: 21px;
+    text-decoration: underline;
+    text-shadow: 3px 3px 4px bisque;
+    display: inline-block;
+}
+#inlogo{
+    padding-top: 20px;
+    padding-left: 39%;
+    width: 7%
+}
+.link{
+    text-shadow: 3px 3px 5px rgb(161, 136, 83);
+    color: darkkhaki;
+    text-decoration: none;
+    float: right;
+    padding-right: 43%;
+    padding-top: 63px;
+    font-size: 20px;
+    text-align: center;
+}
+.link:hover{
+    color: aqua;
+    font-size: 20.5px;
+    text-decoration: underline;
+    text-shadow: 3px 3px 4px bisque;
+    display: inline-block;
+}
+#whatapplogo{
+    padding-top: 20px;
+    padding-left: 39%;
+    width: 6%
+}
+.number{
+    text-shadow: 3px 3px 5px rgb(161, 136, 83);
+    color: darkkhaki;
+    text-decoration: none;
+    float: right;
+    padding-right: 45%;
+    padding-top: 50px;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    font-family: serif;
